@@ -1,0 +1,1 @@
+Корзина, с сохранением состаяния в localStorage, ванильный JS ES6, ajax, html/css
